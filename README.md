@@ -63,11 +63,6 @@ Diploma in **Automation & Robotics**, so I'm as comfortable with an ESP32 and an
 
 ### 📊 Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BuiltByBowas&show_icons=true&hide_border=true&bg_color=07080D&title_color=C3FF2E&icon_color=8B6CFF&text_color=C9CBE0&ring_color=C3FF2E" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByBowas&layout=compact&langs_count=6&hide_border=true&bg_color=07080D&title_color=C3FF2E&text_color=C9CBE0" alt="Top languages"/>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BuiltByBowas/builtbybowas/output/snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/BuiltByBowas/builtbybowas/output/snake-light.svg" alt="Contribution snake" width="100%"/>
